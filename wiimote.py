@@ -1,8 +1,5 @@
 # This program utilises the cwiid Python library in order to get input over bluetooth from a wiimote.
-# The following lines of code demonstrate many of the features realted to wiimotes, such as capturing button presses and rumbling the controller.
-# I have managed to map the home button to the accelerometer - simply hold it and values will appear!
 
-# Coded by The Raspberry Pi Guy. Work based on some of Matt Hawkins's!
 
 import cwiid, time
 
